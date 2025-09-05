@@ -1,5 +1,5 @@
-<img width="411" height="630" alt="image" src="https://github.com/user-attachments/assets/f3e92bb0-eb79-47f2-8d0a-1e74516d0522" /># 
-🧮 Scientific Calculator (Python + Tkinter)
+<img width="411" height="630" alt="image" src="https://github.com/user-attachments/assets/f3e92bb0-eb79-47f2-8d0a-1e74516d0522" />
+# 🧮 Scientific Calculator (Python + Tkinter)
 
 A **Scientific Calculator** built using **Python (Tkinter GUI library)**.  
 This project supports both **basic arithmetic operations** and **scientific functions** like square root, power, sine, cosine, and tangent. It also includes **keyboard input handling** for a smoother user experience.
